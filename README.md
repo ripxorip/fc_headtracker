@@ -5,4 +5,4 @@ The flight controller based headtracker
 Issue `yarn` in the cloned directory
 
 # Run
-Run with `node index.js` and start opentrack
+Connect your betaflight based flightcontroller, run `node index.js` and start opentrack!
