@@ -1,0 +1,10 @@
+{
+  "name": "fc_headtracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@betaflight/msp": "^0.3.0",
+    "opentrack": "^1.0.2"
+  }
+}
