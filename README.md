@@ -1,5 +1,5 @@
 # fc_headtracker
-The flight controller based head tracker
+The flight controller based headtracker
 
 # Install
 Issue `yarn` in the cloned directory
